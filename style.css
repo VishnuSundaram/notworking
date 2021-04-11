@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: aqua;
+}
+
+#intro {
+    font-size: 25px;
+    font-family: bold;
+    text-align: center;
+}
+#p{
+    font-size:25px;
+}
+.acheivment_head{
+    font-size:20px;
+}
+.acheivment_head i{
+    float:right;
+}
